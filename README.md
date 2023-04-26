@@ -1,2 +1,2 @@
-# reactJs-clock-animated
+# reactjs-clock-animated
 clock with transitions
